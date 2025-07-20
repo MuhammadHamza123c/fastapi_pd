@@ -27,11 +27,4 @@ Now, I'm sharing this journey to help anyone who wants to learn FastAPI from rea
 
 > ⚡ **I add 10+ new coding tasks every single day** – check back often or star ⭐ the repo to stay updated!
 
----
 
-## 📘 Learning Resources
-
-- [What is FastAPI? (PDF)](./resources/pdfs/What_is_FastAPI.pdf)
-- [Web Resources for FastAPI](./resources/pdfs/Web_Resources_FastAPI.pdf)
-- [Video Resources for FastAPI](./resources/pdfs/Video_Resources_FastAPI.pdf)
-- [How FastAPI Works (PDF)](./resources/pdfs/How_FastAPI_Works.pdf)
