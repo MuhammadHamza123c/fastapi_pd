@@ -1,0 +1,10 @@
+    "Create User Info API using Pydantic Field Validation",
+    "Build Product Name Validator with Length Constraints",
+    "Implement Login API with Email Validation",
+    "Add Age Field to User Info with Minimum Constraint",
+    "Use Optional Description Field in Product API",
+    "Create Registration API with Email and Password Validation",
+    "Validate Name with Regex Pattern in User Info",
+    "Add Enum Role Field to Login API (e.g., admin, user)",
+    "Combine Multiple Fields: Name, Age, Email in a Single API",
+    "Restrict Mobile Number to 11 Digits Using Field Length"
